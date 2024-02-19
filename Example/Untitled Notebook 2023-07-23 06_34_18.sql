@@ -1,0 +1,4 @@
+-- Databricks notebook source
+-- MAGIC %python
+-- MAGIC use catalag
+-- MAGIC
